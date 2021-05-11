@@ -15,4 +15,7 @@
     .and {
         margin-left: -40px;
     }
+    .timeline > li > .timeline-panel:before{
+        right: -1px;
+    }
 }
