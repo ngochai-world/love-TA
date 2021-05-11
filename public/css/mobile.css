@@ -8,4 +8,11 @@
     .mb_css{
        padding: 0; 
     }
+    .col-xs-6 {
+        width: 40%;
+        left: -32px;
+    }
+    .and {
+        margin-left: -40px;
+    }
 }
